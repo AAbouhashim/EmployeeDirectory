@@ -8,7 +8,7 @@ GET {{host}}
 GET {{host}}/employees
 
 ### Get specific employee
-GET {{host}}/employees/2
+GET {{host}}/employees/6
 
 ### Get nonexistent employee
 GET {{host}}/employees/123
